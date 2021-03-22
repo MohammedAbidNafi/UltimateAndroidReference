@@ -336,6 +336,7 @@ Stitch your photos together vertically or horizontally easily!
 * [ToolWizAppLock](https://github.com/Toolwiz/ToolWizAppLock) - Smart App Lock for Android
 * [Turbo Editor](https://github.com/vmihalachi/turbo-editor) - Simple and powerful File Editor for Android
 * [WeGit](https://github.com/Leaking/WeGit) - An Android App for Github
+* [Forcastie](https://github.com/martykan/forecastie) - A simple opensource weather app for Android.
 
 
 ### Expert
